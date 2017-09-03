@@ -1,4 +1,6 @@
-## Bem vindo a página do Grupo PCB na Prática
+## Bem vindo a página do Grupo [PCB na Prática](http://arduinominas.com.br/pcbnapratica/)
+
+[Página Oficial do Grupo](http://arduinominas.com.br/pcbnapratica/)
 
 Você pode [contribuir editando esta página clicando aqui](https://github.com/ArduinoMinas/pcbnapratica/edit/master/README.md), o arquivo usa o formato Markdown que é bem simples e de fácil aprendizado, depois basta solicitar o merge (a adoção das auterações) um dos admins irá faze-lo assim que possível.
 
