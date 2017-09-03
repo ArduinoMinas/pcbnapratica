@@ -22,6 +22,10 @@ HOje temos três grupos oficiais, mas antes [leia as regras](https://ArduinoMina
 
 Os participantes dos grupos sempre compartilham informação, manuais, dicas e arquivos em geral para ajudar no processo de confecção de PCBs, estaremos [compilando estes arquivos neste link](https://ArduinoMinas.com.br/pcbnapratica/docs/arquivos/].
 
+## Outros Grupos
+
+[Listo aqui outros grupos tanto no Whatsapp como Telegram, com temas correlacionados.](http://ArduinoMinas.com.br/pcbnapratica/docs/grupos)
+
 ## Contatos
 
 O grupo é administrado por Carlos Delfino, criador do Arduino Minas, e hoje mora em Aquiraz no Estado do Ceara, as oficinas serão realizadas em seu HackerSpace (um espaço criado para compartilhar conhecimento através do Projeto Arvore dos Saberes)
