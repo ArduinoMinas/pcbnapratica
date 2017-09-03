@@ -8,15 +8,19 @@ Esta página foi criado para agregar o material compartilhado nos grupos e pelos
 
 ### Os Grupos
 
-HOje temos três grupos oficiais, mas antes [leia as regras](docs/regras.md] de todos eles:
+HOje temos três grupos oficiais, mas antes [leia as regras](https://github.com/ArduinoMinas/pcbnapratica/docs/regras.md] de todos eles:
 
 * [Whatsapp](https://chat.whatsapp.com/8LabjarF9itKWBThhyazNN)
 * [Facebook](https://web.facebook.com/groups/pcbnapratica/)
 * [Telegram](https://t.me/joinchat/CI7cTgYwnl03fWz9EWcjww)
 
+## Participantes
+
+[Clique aqui para conhecer os participantes que estão mais ativos.](https://github.com/ArduinoMinas/pcbnapratica/docs/participantes.md)
+
 ## Arquivos
 
-Os participantes dos grupos sempre compartilham informação, manuais, dicas e arquivos em geral para ajudar no processo de confecção de PCBs, estaremos [compilando estes arquivos neste link](docs/participantes/].
+Os participantes dos grupos sempre compartilham informação, manuais, dicas e arquivos em geral para ajudar no processo de confecção de PCBs, estaremos [compilando estes arquivos neste link](https://github.com/ArduinoMinas/pcbnapratica/docs/arquivos/].
 
 ## Contatos
 
