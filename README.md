@@ -8,7 +8,7 @@ Esta página foi criado para agregar o material compartilhado nos grupos e pelos
 
 ### Os Grupos
 
-HOje temos três grupos oficiais, mas antes leia as regras de todos eles:
+HOje temos três grupos oficiais, mas antes [leia as regras](docs/regras.md] de todos eles:
 
 * [Whatsapp](https://chat.whatsapp.com/8LabjarF9itKWBThhyazNN)
 * [Facebook](https://web.facebook.com/groups/pcbnapratica/)
