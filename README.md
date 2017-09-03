@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Bem vindo a página do Grupo PCB na Prática
 
-You can use the [editor on GitHub](https://github.com/ArduinoMinas/pcbnapratica/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Você pode [contribuir editando esta página clicando aqui](https://github.com/ArduinoMinas/pcbnapratica/edit/master/README.md), o arquivo usa o formato Markdown que é bem simples e de fácil aprendizado, depois basta solicitar o merge (a adoção das auterações) um dos admins irá faze-lo assim que possível.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Esta página foi criado para agregar o material compartilhado nos grupos e pelos participantes das oficinas e Workshop.
 
-### Markdown
+### Os Grupos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+HOje temos três grupos oficiais, mas antes leia as regras de todos eles:
 
-```markdown
-Syntax highlighted code block
+* [Whatsapp](https://chat.whatsapp.com/8LabjarF9itKWBThhyazNN)
+* [Facebook](https://web.facebook.com/groups/pcbnapratica/)
+* [Telegram](https://t.me/joinchat/CI7cTgYwnl03fWz9EWcjww)
 
-# Header 1
-## Header 2
-### Header 3
+## Arquivos
 
-- Bulleted
-- List
+Os participantes dos grupos sempre compartilham informação, manuais, dicas e arquivos em geral para ajudar no processo de confecção de PCBs, estaremos [compilando estes arquivos neste link](docs/participantes/].
 
-1. Numbered
-2. List
+## Contatos
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArduinoMinas/pcbnapratica/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+O grupo é administrado por Carlos Delfino, criador do Arduino Minas, e hoje mora em Aquiraz no Estado do Ceara, as oficinas serão realizadas em seu HackerSpace (um espaço criado para compartilhar conhecimento através do Projeto Arvore dos Saberes)
