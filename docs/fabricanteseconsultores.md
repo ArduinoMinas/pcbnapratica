@@ -1,5 +1,7 @@
 Abaixo estão listados fabricantes e consultores para confecção de PCBs no Brasil e Exterior
 
+[Para contribuir adicionando indicações clique aqui](https://github.com/ArduinoMinas/pcbnapratica/edit/master/docs/fabricanteseconsultores.md)
+
 # Brasil
 SEparado por estado ou região
 
