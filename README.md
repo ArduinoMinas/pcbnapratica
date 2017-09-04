@@ -6,7 +6,7 @@ Você pode [contribuir editando esta página clicando aqui](https://github.com/A
 
 Esta página foi criado para agregar o material compartilhado nos grupos e pelos participantes das oficinas e Workshop.
 
-### Os Grupos
+### Os Grupos Oficiais
 
 HOje temos três grupos oficiais, mas antes [leia as regras](https://ArduinoMinas.com.br/pcbnapratica/docs/regras) de todos eles:
 
@@ -18,9 +18,13 @@ HOje temos três grupos oficiais, mas antes [leia as regras](https://ArduinoMina
 
 [Clique aqui para conhecer os participantes que estão mais ativos.](https://ArduinoMinas.com.br/pcbnapratica/docs/participantes)
 
-## Arquivos
+## Arquivos e Dcoumentos
 
 Os participantes dos grupos sempre compartilham informação, manuais, dicas e arquivos em geral para ajudar no processo de confecção de PCBs, estaremos [compilando estes arquivos neste link](https://ArduinoMinas.com.br/pcbnapratica/docs/arquivos/].
+
+## Lista de Fabricantes e Consultores
+
+[clique aqui para acessar a lista de fabricantes e consultores de PCB](https://ArduinoMinas.com.br/pcbnapratica/docs/fabricanteseconsultores/)
 
 ## Outros Grupos
 
