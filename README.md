@@ -24,7 +24,7 @@ Os participantes dos grupos sempre compartilham informação, manuais, dicas e a
 
 ## Lista de Fabricantes e Consultores
 
-[clique aqui para acessar a lista de fabricantes e consultores de PCB](https://ArduinoMinas.com.br/pcbnapratica/docs/fabricanteseconsultores/)
+[clique aqui para acessar a lista de fabricantes e consultores de PCB](https://ArduinoMinas.com.br/pcbnapratica/docs/fabricanteseconsultores)
 
 ## Outros Grupos
 
