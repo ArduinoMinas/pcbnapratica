@@ -1,35 +1,34 @@
 ## Bem vindo a página do Grupo [PCB na Prática](http://arduinominas.com.br/pcbnapratica/)
 
-[Página Oficial do Grupo](http://arduinominas.com.br/pcbnapratica/)
+*Dicas e regras para o sucesso de nosso grupo PCB na Prática* :
 
-Você pode [contribuir editando esta página clicando aqui](https://github.com/ArduinoMinas/pcbnapratica/edit/master/README.md), o arquivo usa o formato Markdown que é bem simples e de fácil aprendizado, depois basta solicitar o merge (a adoção das auterações) um dos admins irá faze-lo assim que possível.
+Página oficial do grupo: http://arduinominas.com.br/pcbnapratica/
 
-Esta página foi criado para agregar o material compartilhado nos grupos e pelos participantes das oficinas e Workshop.
+📡 Antes de tudo se apresente ao grupo, seu nome área de atuação e se tiver link para seu site ou perfil.
 
-### Os Grupos Oficiais
+📡 Nosso Idioma oficial é o Português.
 
-HOje temos três grupos oficiais, mas antes [leia as regras](https://ArduinoMinas.com.br/pcbnapratica/docs/regras) de todos eles:
+📡 CNC e outros meidos para confecção de PCB está valendo. Mas com o foco especifico na confeção das placas não do equipamento propriamente, caso de dúvidas não poste converse com um dos admins.
 
-* [Whatsapp](https://chat.whatsapp.com/8LabjarF9itKWBThhyazNN)
-* [Facebook](https://web.facebook.com/groups/pcbnapratica/)
-* [Telegram](https://t.me/joinchat/CI7cTgYwnl03fWz9EWcjww)
+📡 Use o grupo para divulgar sua demanda, promoções de serviços e produtos, evite propagandas e fotos repetidas, uma por mês é o ideal.
 
-## Participantes
+📡 Não importa se você é hobbista, estudante, tecnico, engenheiro, autonomo, funcionário, empresário, aqui vale sua participação compartilhamento de conhecimento e consideração com os colegas, em especial quem está começando.
 
-[Clique aqui para conhecer os participantes que estão mais ativos.](https://ArduinoMinas.com.br/pcbnapratica/docs/participantes)
+📡 O importante é mantermos o foco no nome do grupo como sendo o tópico chave e cuidar para valorização das regras.
 
-## Arquivos e Dcoumentos
+📡 Apesar do Grupo ser no campo da Eletrônica, não é um grupo de troca de circuitos e suporte em eletrônica em geral, apenas confecção de placas de circuitos impressos.
 
-Os participantes dos grupos sempre compartilham informação, manuais, dicas e arquivos em geral para ajudar no processo de confecção de PCBs, estaremos [compilando estes arquivos neste link](https://ArduinoMinas.com.br/pcbnapratica/docs/arquivos/].
+📡 Se quer exibir seu belo circuito, apresente os detalhes de como fez.
 
-## Lista de Fabricantes e Consultores
+📡 Evitem:
+  🗜 *Política e religião nem pensar* .
+  🗜 Repetir constantemente propagandas, principalmente autopropaganda, propaganda fora do contexto e repetidas acarretará remoção. 
+  🗜 Desrespeito e tratamento excessivamente expansivo
+  🗜 Bom dia, Boa tarde, Boa noite a não ser junto de tópicos e contexto. Procure puxar assunto com o tópico do grupo.
+  🗜 Divulgação de vagas, o foco do grupo é empreender e parcerias seja como empresa (MEI, Micro ou LTDA) ou autonomo.  
 
-[clique aqui para acessar a lista de fabricantes e consultores de PCB](https://ArduinoMinas.com.br/pcbnapratica/docs/fabricanteseconsultores)
+📡 Os mais mais colaborativos se tornam admin.
 
-## Outros Grupos
+📡 Sejam todos bem vindos, o grupo é nosso, então todos cuidem para o sucesso.
 
-[Listo aqui outros grupos tanto no Whatsapp como Telegram, com temas correlacionados.](http://ArduinoMinas.com.br/pcbnapratica/docs/grupos)
-
-## Contatos
-
-O grupo é administrado por Carlos Delfino, criador do Arduino Minas, e hoje mora em Aquiraz no Estado do Ceara, as oficinas serão realizadas em seu HackerSpace (um espaço criado para compartilhar conhecimento através do Projeto Arvore dos Saberes)
+Use este link para convidar outros para nosso grupo do WhatsApp:  https://chat.whatsapp.com/K2ZMBdOHCadLjPQxApjOlw
