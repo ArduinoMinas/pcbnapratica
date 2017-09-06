@@ -1,10 +1,25 @@
-## Bem vindo a página do Grupo [PCB na Prática](http://arduinominas.com.br/pcbnapratica/)
+## Bem vindo a página oficial do Grupo [PCB na Prática](http://arduinominas.com.br/pcbnapratica/)
 
-*Dicas e regras para o sucesso de nosso grupo PCB na Prática* :
 
-Página oficial do grupo: http://arduinominas.com.br/pcbnapratica/
+[Página Oficial do Grupo](http://arduinominas.com.br/pcbnapratica/)
+
+Você pode [contribuir editando esta página clicando aqui](https://github.com/ArduinoMinas/pcbnapratica/edit/master/README.md), o arquivo usa o formato Markdown que é bem simples e de fácil aprendizado, depois basta solicitar o merge (a adoção das auterações) um dos admins irá faze-lo assim que possível.
+
+Esta página foi criado para agregar o material compartilhado nos grupos e pelos participantes das oficinas e Workshop.
+
+## História do PCB na Prática.
+
+O projeto PCB na Prática, surgiu com proposta de oficinas e workshop de confecção básica de PCBs, algumas pessoas se proporam a ajudar com a solução de dúvidas e propostas de métodos, e assim o grupo foi criado no Facebook. Com o movimento no grupo foi proposto no grupo do Facebook que fosse discutido também a confeção de componentes e novos métodos de confeção de PCBs, os componentes uma vez que o processo de confeção de um componentes como Antena, ou mesmo um transitor didátido ou uma váuvula é um processo manual e bastante didático.
+
+O projeto PCB na Prática, é um whorkshop ministrado pelo curso Arduino Minas tanto para técnicos em processo de formação ou formados como para jovens em projetos sociais.
+
+## Regras do Grupo
+
+*Dicas e regras para o sucesso de nosso grupo PCB na Prática* : 
 
 📡 Antes de tudo se apresente ao grupo, seu nome área de atuação e se tiver link para seu site ou perfil.
+
+📡 Este grupo é um grupo seleto, não só pelo desejo de todos em aprender e compartilhar conhecimento como também pela postura com os demais participantes com as regras do grupo. Não visamos quantidade de membros, mas qualidade no conhecimento.
 
 📡 Nosso Idioma oficial é o Português.
 
@@ -32,3 +47,31 @@ Página oficial do grupo: http://arduinominas.com.br/pcbnapratica/
 📡 Sejam todos bem vindos, o grupo é nosso, então todos cuidem para o sucesso.
 
 Use este link para convidar outros para nosso grupo do WhatsApp:  https://chat.whatsapp.com/K2ZMBdOHCadLjPQxApjOlw
+
+### Os Grupos Oficiais
+
+HOje temos três grupos oficiais, mas antes [leia as regras](https://ArduinoMinas.com.br/pcbnapratica/docs/regras) de todos eles:
+
+* [Whatsapp](https://chat.whatsapp.com/8LabjarF9itKWBThhyazNN)
+* [Facebook](https://web.facebook.com/groups/pcbnapratica/)
+* [Telegram](https://t.me/joinchat/CI7cTgYwnl03fWz9EWcjww)
+
+## Participantes
+
+[Clique aqui para conhecer os participantes que estão mais ativos.](https://ArduinoMinas.com.br/pcbnapratica/docs/participantes)
+
+## Arquivos e Dcoumentos
+
+Os participantes dos grupos sempre compartilham informação, manuais, dicas e arquivos em geral para ajudar no processo de confecção de PCBs, estaremos [compilando estes arquivos neste link](https://ArduinoMinas.com.br/pcbnapratica/docs/arquivos/].
+
+## Lista de Fabricantes e Consultores
+
+[clique aqui para acessar a lista de fabricantes e consultores de PCB](https://ArduinoMinas.com.br/pcbnapratica/docs/fabricanteseconsultores/)
+
+## Outros Grupos
+
+[Listo aqui outros grupos tanto no Whatsapp como Telegram, com temas correlacionados.](http://ArduinoMinas.com.br/pcbnapratica/docs/grupos)
+
+## Contatos
+
+O grupo é administrado por Carlos Delfino, criador do Arduino Minas, e hoje mora em Aquiraz no Estado do Ceara, as oficinas serão realizadas em seu HackerSpace (um espaço criado para compartilhar conhecimento através do Projeto Arvore dos Saberes)
