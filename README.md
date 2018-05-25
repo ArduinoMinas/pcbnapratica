@@ -15,19 +15,19 @@ O projeto PCB na Prática, é um whorkshop ministrado pelo curso Arduino Minas t
 
 ## Regras do Grupo
 
-*Dicas e regras para o sucesso de nosso grupo PCB na Prática* : 
+*Dicas e regras para o sucesso de nosso grupo PCI/PCB na Prática* : 
 
 📡 Antes de tudo se apresente ao grupo, seu nome área de atuação e se tiver link para seu site ou perfil.
 
-📡 Este grupo é um grupo seleto, não só pelo desejo de todos em aprender e compartilhar conhecimento como também pela postura com os demais participantes com as regras do grupo. Não visamos quantidade de membros, mas qualidade no conhecimento.
+📡 Este grupo é um grupo seleto, respeite o tempo dos profissionais que fazem parte dele, seleto não só pelo desejo de todos em aprender e compartilhar como também pela postura com os demais participantes e respeito com as regras do grupo. Não visamos quantidade de membros, mas qualidade no conhecimento.
 
 📡 Nosso Idioma oficial é o Português.
 
-📡 CNC e outros meidos para confecção de PCB está valendo. Mas com o foco especifico na confeção das placas não do equipamento propriamente, caso de dúvidas não poste converse com um dos admins.
+📡 CNC e outros meios para confecção de PCI/PCB está valendo. Mas com o foco especifico na confecção das placas, não do equipamento propriamente, em caso de dúvidas não poste, converse com um dos admins.
 
-📡 Use o grupo para divulgar sua demanda, promoções de serviços e produtos, evite propagandas e fotos repetidas, uma por mês é o ideal.
+📡 Use o grupo para divulgar sua demanda, promoções de serviços e produtos apenas se for ligado a confecção do PCI/PCB, evite propagandas e fotos repetidas, uma por mês é o ideal.
 
-📡 Não importa se você é hobbista, estudante, tecnico, engenheiro, autonomo, funcionário, empresário, aqui vale sua participação compartilhamento de conhecimento e consideração com os colegas, em especial quem está começando.
+📡 Não importa se você é hobbista, estudante, técnico, engenheiro, autonomo, funcionário, empresário, aqui vale sua participação compartilhamento de conhecimento e consideração com os colegas, em especial quem está começando.
 
 📡 O importante é mantermos o foco no nome do grupo como sendo o tópico chave e cuidar para valorização das regras.
 
@@ -37,16 +37,15 @@ O projeto PCB na Prática, é um whorkshop ministrado pelo curso Arduino Minas t
 
 📡 Evitem:
   🗜 *Política e religião nem pensar* .
+  🗜 Por mais nobre que a postagem seja, se não for foco do grupo não podeste.  
   🗜 Repetir constantemente propagandas, principalmente autopropaganda, propaganda fora do contexto e repetidas acarretará remoção. 
   🗜 Desrespeito e tratamento excessivamente expansivo
   🗜 Bom dia, Boa tarde, Boa noite a não ser junto de tópicos e contexto. Procure puxar assunto com o tópico do grupo.
-  🗜 Divulgação de vagas, o foco do grupo é empreender e parcerias seja como empresa (MEI, Micro ou LTDA) ou autonomo.  
+  🗜 Divulgação de vagas, o foco do grupo é tirar dúvidas, ajudar, empreender e parcerias seja como empresa (MEI, Micro ou LTDA) ou autonomo.  
 
-📡 Os mais mais colaborativos se tornam admin.
+📡 Os mais mais colaborativos se tornam admin, desde que não tenham interesse comercial no grupo (excessões podem ser abertas).
 
 📡 Sejam todos bem vindos, o grupo é nosso, então todos cuidem para o sucesso.
-
-Use este link para convidar outros para nosso grupo do WhatsApp:  https://chat.whatsapp.com/K2ZMBdOHCadLjPQxApjOlw
 
 ### Os Grupos Oficiais
 
