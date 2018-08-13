@@ -61,11 +61,11 @@ HOje temos três grupos oficiais, mas antes [leia as regras](https://ArduinoMina
 
 ## Arquivos e Dcoumentos
 
-Os participantes dos grupos sempre compartilham informação, manuais, dicas e arquivos em geral para ajudar no processo de confecção de PCBs, estaremos [compilando estes arquivos neste link](https://ArduinoMinas.com.br/pcbnapratica/docs/arquivos/].
+Os participantes dos grupos sempre compartilham informação, manuais, dicas e arquivos em geral para ajudar no processo de confecção de PCBs, estaremos [compilando estes arquivos neste link](http://ArduinoMinas.com.br/pcbnapratica/docs/arquivos/].
 
 ## Lista de Fabricantes e Consultores
 
-[clique aqui para acessar a lista de fabricantes e consultores de PCB](https://ArduinoMinas.com.br/pcbnapratica/docs/fabricanteseconsultores/)
+[clique aqui para acessar a lista de fabricantes e consultores de PCB](http://ArduinoMinas.com.br/pcbnapratica/docs/fabricanteseconsultores/)
 
 ## Outros Grupos
 
